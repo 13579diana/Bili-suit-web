@@ -20,6 +20,6 @@ amd64mac:
 clean:
 	rm bili-suit-tool
 
-clean all:
+cleanall:
 	rm bili-suit-tool
 	rm *.tar.gz
