@@ -11,7 +11,9 @@
 
 填写 `config.json` 中的 `item_id` （装扮ID）
 
-运行脚本，不填写 `cookies` 可使用扫码登录
+运行脚本: 在终端中运行 `./bili-suit-tool`
+
+不填写 `cookies` 可使用扫码登录
 
 ## 配置文件
 
